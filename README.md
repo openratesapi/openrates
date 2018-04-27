@@ -8,7 +8,7 @@ OpenRates is a free JSON API delivering reliable, accurate and up-to-date curren
 Query the API for the latest available exchange rates.
 
 ```http
-GET /latest
+GET http://api.openrates.io/latest
 ```
 
 Get historical rates for any day since 1999.
