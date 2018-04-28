@@ -1,6 +1,6 @@
 # OpenRates API
 
-OpenRates is a free JSON API delivering reliable, accurate and up-to-date currency exchange rate data sourced directly from the [European Central Bank](https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html). 
+OpenRates is a free JSON API delivering accurate and up-to-date currency exchange rate data sourced directly from the [European Central Bank](https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html). Our aim is to offer an out-of-the-box, reliable currency API service at no cost and without the need of registering an account. 
 
 Exchange rates are updated daily at around 4:00pm CET. 
 
